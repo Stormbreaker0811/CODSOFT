@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="clear_button">#EF5350</color>
+    <color name="arithmetic_buttons">#3949AB</color>
+    <color name="equals_button">#9C27B0</color>
+    <color name="numbered_buttons">#0097A7</color>
+    <color name="BG_DARK">#333232</color>
+
+</resources>
